@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/pysal/esda/commit/2054740124386cd694c410a48622fcd92efe7289",
       "git:hexsha": "2054740124386cd694c410a48622fcd92efe7289",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-19T11:36:53.673867+00:00"
     },
     {
       "@id": "https://repolex.ai/r/pysal/esda/commit/e13a7f48711a1a63aa181a0dd3f9cb1b01d86317",
